@@ -1,4 +1,4 @@
-# 🔍 Nitaqat Compliance Root Cause Analyzer
+#  Nitaqat Compliance Root Cause Analyzer
 ### Diagnostic Analytics · Vision 2030 Portfolio Series · App 2 of 4
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Problem This Solves
+##  Problem This Solves
 
 Descriptive dashboards tell you *what* is happening. This app tells you **why**.
 
@@ -18,7 +18,7 @@ This tool decomposes every non-compliant company into a **5-dimension root cause
 
 ---
 
-## 🧠 Analytical Framework
+##  Analytical Framework
 
 ### The 5 Root Causes Measured
 
@@ -34,7 +34,7 @@ Each dimension is scored 0–100. A **Composite Risk Score** is computed via wei
 
 ---
 
-## 📊 Visualisations
+##  Visualisations
 
 | Chart | Insight |
 |---|---|
@@ -50,7 +50,7 @@ Each dimension is scored 0–100. A **Composite Risk Score** is computed via wei
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/saudi-workforce-diagnostic.git
@@ -77,7 +77,7 @@ print(ngrok.connect(8501).public_url)
 
 ---
 
-## 📁 File Structure
+##  File Structure
 
 ```
 saudi-workforce-diagnostic/
@@ -89,7 +89,7 @@ saudi-workforce-diagnostic/
 
 ---
 
-## 🔮 The Analytics Series
+## The Analytics Series
 
 | App | Type | Question Answered |
 |---|---|---|
@@ -100,7 +100,7 @@ saudi-workforce-diagnostic/
 
 ---
 
-## 💡 Why This Stands Out
+##  Why This Stands Out
 
 Most diagnostic analytics projects in portfolios use generic retail churn or web traffic data. This project:
 
