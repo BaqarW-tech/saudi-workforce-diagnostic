@@ -1,7 +1,7 @@
 #  Nitaqat Compliance Root Cause Analyzer
 ### Diagnostic Analytics · Vision 2030 Portfolio Series · App 2 of 4
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://saudi-workforce-diagnostic-da8wwo9khnvqzgxmrybczc.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Domain](https://img.shields.io/badge/Domain-KSA%20Labor%20Policy-gold)
 ![Analytics](https://img.shields.io/badge/Analytics-Diagnostic-purple)
